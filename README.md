@@ -1,1 +1,1 @@
-# Image_Hover
+# image-hover-effect
